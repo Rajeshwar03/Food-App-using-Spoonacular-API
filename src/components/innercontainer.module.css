@@ -1,0 +1,21 @@
+.innerContainer {
+  flex: 1;
+  margin: 20px auto;
+  padding: 24px;
+  max-width: 1200px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+/* Responsive: innercontainer.module.css */
+@media (max-width: 992px) {
+  .innerContainer {
+    max-width: 95%;
+    padding: 16px;
+  }
+}
