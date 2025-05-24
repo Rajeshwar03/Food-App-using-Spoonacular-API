@@ -32,3 +32,7 @@ A responsive React application that lets users search for recipes using the [Spo
 ```bash
 git clone https://github.com/Rajeshwar03/Food-App-using-Spoonacular-API
 cd Food-App-using-Spoonacular-API
+
+
+#hosted on Netlify
+https://rajeshs-foodiemania.netlify.app/
